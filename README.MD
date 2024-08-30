@@ -10,3 +10,11 @@ Correlation Analysis: Establish statistical correlations between the sentiment d
 
 The project requires proficiency in Data Engineering (DE), Financial Analytics (FA), and Machine Learning Engineering (MLE). It will enhance skills in analyzing complex datasets, demonstrating adaptability, and employing innovative thinking skills that are crucial for the demanding environment at Nova Financial Insights.
 
+Usage Instructions
+Clone this repository:
+git clone https://github.com/EstifanosTeklay/nova-financial-Solutions.git
+Install all dependencies using the requirements.txt file.
+
+Run the project using Jupyter Notebook. This will open a new browser window with the project at http://localhost:8888/ URL.
+
+To see the Exploratory Data Analysis (EDA), navigate to the /notebooks folder and open the notebook file.
